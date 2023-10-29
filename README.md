@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamidreza Bahmani=========================================================================================================================================Backend Devloper----------------* ✉️  You can contact me at [hb.hamidrezabahmani@gmail.com](mailto:hb.hamidrezabahmani@gmail.com)
+Hi 👋 My name is Hamidreza Bahmani
+==================================Backend Devloper----------------* ✉️  You can contact me at [hb.hamidrezabahmani@gmail.com](mailto:hb.hamidrezabahmani@gmail.com)
 
 ### Skills
 

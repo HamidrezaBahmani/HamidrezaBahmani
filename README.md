@@ -13,5 +13,6 @@
 <p align="left">
 
 <a href="https://t.me/HamidrzaBahmani" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="t.me/HamidrzaBahmani" height="50" width="50" /></a>
+<a href="mailto:hb.hamidrezabahmani.com@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="mailto:hb.hamidrezabahmani.com@gmail.com" height="50" width="50" /></a>
 
 </p>

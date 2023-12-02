@@ -17,8 +17,13 @@
 
 <h3 align="left">🔗Connect with me :</h3>
 <p align="left">
-
-<a href="https://t.me/HamidrzaBahmani" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="t.me/HamidrzaBahmani" height="50" width="50" /></a>
+<kbd>
+<a href="https://t.me/HamidrzaBahmani" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="t.me/HamidrzaBahmani" height="70" width="60" /></a>
+</kbd>
+  <kbd>
 <a href="mailto:hb.hamidrezabahmani.com@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="mailto:hb.hamidrezabahmani.com@gmail.com" height="70" width="50" /></a>
+  </kbd>
+  <kbd>
+<a href="https://hamidrezabahmani.github.io/#contact" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2498/2498099.png" alt="mailto:hb.hamidrezabahmani.com@gmail.com" height="70" width="50" padding="50" /></a></kbd>
 
 </p>
